@@ -1,5 +1,6 @@
 package com.wildcodeschool.doctor;
 
+import com.wildcodeschool.doctor.model.Doctor;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -9,5 +10,8 @@ public class DoctorWhoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DoctorWhoApplication.class, args);
 	}
+
+
+
 
 }
